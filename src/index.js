@@ -7,6 +7,8 @@ import Navbar from './navbar'
 import Carrousel from './Carrousel'
 import Lechef from './lechef';
 import reportWebVitals from './reportWebVitals';
+import Contact from './Contact';
+import NosPat from './nospat'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,7 +16,9 @@ root.render(
     <Navbar/>
     <Carrousel/>
     <Lechef/>
+    <NosPat/>
     <Opdn/>
+    <Contact/>
   </React.StrictMode>
 );
 

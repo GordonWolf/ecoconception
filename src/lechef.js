@@ -11,7 +11,7 @@ function Lechef() {
                     <text>Le chef</text>
                 </div>
                 <div>
-                    <text>Philippe Lugnac s'amuse à inventer qu'à réinventer, faire briller le répoertoire classique parisien, visiter de nouvelles terres avec attention et donner de l'éclat aux soirées festives qui se prolongent.</text>
+                    <text>Philippe Lugnac s'amuse à inventer qu'à réinventer, faire briller le répertoire classique parisien, visiter de nouvelles terres avec attention et donner de l'éclat aux soirées festives qui se prolongent.</text>
                 </div>
                 <div>
                     <img src={imgLechef} className="photo1"/>
