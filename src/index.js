@@ -5,6 +5,7 @@ import './index.css';
 import Opdn from './opdn'
 import Navbar from './navbar'
 import Carrousel from './Carrousel'
+import Lechef from './lechef';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -12,6 +13,8 @@ root.render(
   <React.StrictMode>
     <Navbar/>
     <Carrousel/>
+    <Lechef/>
+    <Opdn/>
   </React.StrictMode>
 );
 
