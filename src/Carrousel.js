@@ -31,10 +31,10 @@ export default function Carrousel() {
       />
       <div className="Nav-Carrousel">
         <div onClick={() => setDisp((toDisp - 1) % 4)}>
-          "OKOK"
+         &#706;
         </div>
         <div onClick={() => setDisp((toDisp + 1) % 4)}>
-          "OKOK"
+          &#707;
         </div>
       </div>
     </div>
