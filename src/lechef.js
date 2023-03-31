@@ -14,11 +14,12 @@ function Lechef() {
                     <text>Philippe Lugnac s'amuse à inventer qu'à réinventer, faire briller le répoertoire classique parisien, visiter de nouvelles terres avec attention et donner de l'éclat aux soirées festives qui se prolongent.</text>
                 </div>
                 <div>
-                    <img src={imgLechef}/>
+                    <img src={imgLechef} className="photo1"/>
                 </div>
             </div>
-                <img src={imgLechef2}/>
-            <div className="col2"></div>
+            <div className="col2">
+                <img src={imgLechef2} className="photo1"/>
+            </div>
         </div>
     );
 }
