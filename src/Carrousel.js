@@ -1,7 +1,7 @@
 import "./carrousel.css";
 import { useState } from "react";
 
-export default function App() {
+export default function Carrousel() {
   const [toDisp, setDisp] = useState(0);
 
   return (
