@@ -4,10 +4,16 @@
     font-weight: bold;
 }
 
-.container {
-    margin: 30px;
+.main-container {
+    max-width: 100%;
+    height: 200px;
+    background-color: #F5EFEA;
+    padding: 50px;
 }
 
-.contain {
-    margin-top: 20px;
+.photo {
+    width: 100px;
+    height: 80px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
