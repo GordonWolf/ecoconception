@@ -7,7 +7,7 @@ function NosPat() {
     return (
         <div className="row">
             <div className="col1">
-                    <img src={imgnospat} className="photo1"/>
+                    <img src={imgnospat} alt="patisserie" className="photo1"/>
             </div>
             <div className="col2">
                 <div>
